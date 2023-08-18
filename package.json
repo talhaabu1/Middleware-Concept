@@ -1,0 +1,14 @@
+{
+  "name": "Middleware-Concept",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "install": "^0.13.0"
+  }
+}
